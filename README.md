@@ -7,4 +7,4 @@
 - style.css :見た目の設定
 
 ## 公開url
-(第7回の授業で記入します）
+- https://github.com/m4y2e6z649577/my-website
