@@ -8,4 +8,5 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: HTML をチェックする
-        run: npx --yes htmlhint "**/*.html"
+        run: npx --yes htmlhint "**/*.html
+        
